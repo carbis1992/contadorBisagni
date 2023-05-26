@@ -1,0 +1,27 @@
+.main{
+    text-align-last: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.resultado{
+    margin: 0 30px;
+}
+
+.sumador{
+    width: 30px;
+    background-color: rgba(93, 249, 205, 0.3);
+    border: 1px solid rgba(93, 249, 205, 0.3);
+    border-radius: 40%;
+}
+
+.restador{
+    width: 30px;
+    background-color: rgba(239, 94, 25, 0.34);
+    border: 1px solid rgba(239, 94, 25, 0.34);
+    border-radius: 40%;
+}
